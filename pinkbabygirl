@@ -642,3 +642,28 @@ ul.tags {
   display: flex;
   flex-wrap: wrap;
 }
+
+ul.tags {
+  display: block !important;
+}
+
+ul.tags li {
+  display: inline !important;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: none !important;
+}
+
+#dashboard .module,
+#dashboard .listbox,
+#dashboard .blurb,
+#dashboard dl,
+#dashboard dd {
+  background: #000000 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
