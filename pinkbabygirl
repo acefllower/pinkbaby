@@ -1,0 +1,644 @@
+brown plaid #outer {
+  background: #f6c1d8;
+}
+
+#main {
+  background: url("https://64.media.tumblr.com/4fc0e27b4599f29c352cf75364de6db7/b404ab6a8aa0bd37-86/s1280x1920/56082ff2b7b89761a85583f0f40d43bf7ab54742.jpg");
+  background-size: contain;
+  background-repeat: repeat;
+}
+
+#main {
+  color: #ffffff;
+}
+
+#main a {
+  color: #ffffff;
+}
+
+#main a:hover {
+  color: #ffffff;
+}
+
+#header {
+  background: url("https://64.media.tumblr.com/9d551a65eb3516adc46dcf9575ec16b0/fcdad6f3828a62df-5e/s2048x3072/bc063567cc95f1a4f4f1512bbbb3b885f01673f7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#header .heading {
+  height: 18em;
+}
+
+#header .primary {
+  background: #000000;
+  box-shadow: none;
+}
+
+#header a.dropdown-toggle,
+#greeting .user > li:nth-of-type(3) a {
+  color: #ffffff !important;
+}
+
+#header .menu li a {
+  color: #ffffff !important;
+}
+
+#footer .heading {
+  font-variant: small-caps;
+  color: #ffffff;
+}
+
+#footer li,
+#footer li a,
+#footer button {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.favorite.module.odd h3.heading,
+.latest.news.module h3.heading span.title,
+.random.readings.module h3.heading span.title,
+.latest.messages.module h3.heading span.title,
+.social.module h3.heading {
+  color: #ffffff;
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash,
+.LV_invalid {
+  background: #000000;
+  color: #ffffff;
+}
+
+.actions a,
+.actions button,
+.actions input,
+input[type="submit"],
+button {
+  background: #000000;
+  color: #ffffff;
+}
+
+fieldset,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+  background: #000000;
+}
+
+input,
+textarea,
+select {
+  background: #000000;
+  color: #ffffff;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  background: #000000;
+  color: #ffffff;
+}
+
+.required,
+label,
+dt.notes {
+  color: #ffffff;
+}
+
+span.question {
+  background: #000000;
+  color: #ffffff;
+}
+
+input[type="checkbox"] {
+  background: #000000;
+}
+
+input[type="checkbox"]:checked {
+  background: #000000;
+}
+
+input[type=radio] {
+  background: #000000;
+}
+
+input[type=radio]:checked {
+  background: #000000;
+}
+
+.bookmark .user {
+  background: #000000;
+}
+
+.reading h4.viewed {
+  background: #000000;
+}
+
+.thread .even {
+  background: #000000;
+}
+
+.replied {
+  background: #000000 !important;
+  color: #ffffff !important;
+}
+
+.statistics .index li:nth-of-type(2n) {
+  background: #000000;
+}
+
+table {
+  background: #000000;
+}
+
+thead {
+  background: #000000;
+  color: #ffffff;
+}
+
+th,
+tr,
+td {
+  background: #000000;
+  color: #ffffff;
+}
+
+span.requested.offered {
+  color: #ffffff;
+  background: #000000;
+}
+
+span.requested {
+  color: #ffffff;
+}
+
+div.preface .module {
+  background: #000000;
+}
+
+#dashboard.own,
+.dashboard .own {
+  background: #000000;
+}
+
+#dashboard a {
+  color: #ffffff;
+}
+
+.listbox {
+  background: #000000;
+}
+
+.listbox > .heading {
+  color: #ffffff;
+}
+
+li.blurb {
+  background: #000000;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link,
+li.added.tag {
+  border: 1px solid #f6c1d8;
+  color: #f6c1d8;
+}
+
+a.tag:hover {
+  background: #000000;
+}
+
+ul.tags li.warnings:first-child:before {
+  color: #f6c1d8;
+}
+
+li.warnings + li.relationships:before {
+  color: #f6c1d8;
+}
+
+li.relationships + li.characters:before {
+  color: #f6c1d8;
+}
+
+li.characters + li.freeforms:before {
+  color: #f6c1d8;
+}
+
+#workskin {
+  background: #000000;
+  color: #ffffff;
+}
+
+.filters .expander {
+  color: #ffffff;
+}
+
+form dt {
+  color: #ffffff;
+}
+
+p.kudos {
+  color: #ffffff;
+}
+
+div.notes.module h3.heading {
+  color: #ffffff;
+}
+
+blockquote.userstuff {
+  color: #ffffff;
+}
+
+li.blurb span.text {
+  color: #ffffff;
+}
+
+li.blurb blockquote.userstuff.summary {
+  color: #ffffff;
+}
+
+body {
+  background: #f6c1d8 !important;
+}
+
+#outer {
+  background: #f6c1d8 !important;
+}
+
+#search input[type="text"] {
+  border: 2px solid #ffffff;
+  background: transparent;
+  color: #ffffff;
+  box-shadow: 0 0 6px #ffffff;
+}
+
+#search input[type="text"]:focus {
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 6px #ffffff;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link,
+li.added.tag {
+  border: none !important;
+  background: #000000 !important;
+  color: #ffc6e6 !important;
+  box-shadow: none !important;
+}
+
+li.blurb ul.tags li a {
+  border: none !important;
+  background: #000000 !important;
+}
+
+.relationships .tag,
+.characters .tag,
+.freeforms .tag,
+.warnings .tag {
+  background: #000000 !important;
+}
+
+ul.tags a.tag {
+  color: #ffc6e6 !important;
+}
+
+ul.tags li.warnings:first-child:before,
+li.warnings + li.relationships:before,
+li.relationships + li.characters:before,
+li.characters + li.freeforms:before {
+  color: #ff6fb3 !important;
+  font-weight: bold;
+}
+
+li.blurb,
+.blurb .header,
+.blurb .tags,
+.index li,
+.statistics .index li:nth-of-type(2n) {
+  background: #000000 !important;
+}
+
+a.tag:hover {
+  background: #000000 !important;
+  color: #ff6fb3 !important;
+}
+
+body {
+  background: #000000 !important;
+}
+
+#outer {
+  background: transparent !important;
+}
+
+#inner {
+  background: transparent !important;
+}
+
+body,
+#outer {
+  background: #000000 !important;
+}
+
+#header,
+#header .primary,
+#header .menu {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.actions a,
+.actions button,
+.actions input,
+button,
+.current,
+.actions label {
+  background: #000000 !important;
+  border: 1px solid #000000 !important;
+  color: #ffffff !important;
+  box-shadow: none !important;
+}
+
+.actions a:hover,
+.actions button:hover,
+.actions input:hover {
+  background: #000000 !important;
+  color: #ffc6e6 !important;
+  border: 1px solid #ffc6e6 !important;
+}
+
+#outer,
+body {
+  background: #000000 !important;
+}
+
+#header .primary {
+  background: #000000 !important;
+  border: none !important;
+}
+
+#header,
+#header ul,
+#header li {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.module,
+.listbox,
+.dashboard .own,
+li.blurb,
+.index li,
+fieldset,
+dl.meta,
+.news.index.group li.post.group {
+  background: #000000 !important;
+  border-color: #000000 !important;
+}
+
+.module h3,
+.heading {
+  background: #000000 !important;
+  color: #ffffff !important;
+}
+
+.recent,
+.module .heading,
+.listbox > .heading {
+  background: #000000 !important;
+  border: none !important;
+}
+
+#search input[type="text"] {
+  background: #000000 !important;
+  border: 2px solid #ffb6d9 !important;
+  color: #ffffff !important;
+  box-shadow: 0 0 8px #ffb6d9, 0 0 15px #ffb6d9 !important;
+}
+
+#search input[type="text"]:focus {
+  outline: none;
+  box-shadow: 0 0 10px #ffb6d9, 0 0 20px #ffb6d9 !important;
+}
+
+.dashboard .secondary,
+#dashboard,
+.dashboard ul,
+.dashboard li {
+  border: none !important;
+  background: #000000 !important;
+}
+
+.dashboard .secondary::before,
+.dashboard .secondary::after {
+  display: none !important;
+}
+
+.module,
+.listbox,
+.index li,
+.blurb,
+.bookmark,
+.dashboard .own,
+.recent,
+.module .heading {
+  background: #000000 !important;
+  border-color: #000000 !important;
+}
+
+.module h3,
+.heading {
+  background: #000000 !important;
+  color: #ffffff !important;
+}
+
+#header,
+#footer,
+.primary,
+.secondary {
+  background: #000 !important;
+  border-color: #000 !important;
+}
+
+#footer {
+  background: #000 !important;
+}
+
+#footer .wrapper {
+  background: #000 !important;
+}
+
+#header {
+  background: none !important;
+  padding: 0;
+}
+
+#header .logo {
+  display: none;
+}
+
+#header:before {
+  content: "";
+  display: block;
+  height: 230px;
+  background-image: url("https://64.media.tumblr.com/0875f8223163d9b71c4d73b4f594ac1d/ca45a149b215ed71-b6/s1280x1920/c74bbb6a414d13fc9f81e0030676939434ef9177.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body {
+  background: url("https://64.media.tumblr.com/82db4de13de58a2d329161053b26b58b/ca45a149b215ed71-09/s1280x1920/3edd20b5f8ed6d8cc4c1cc7c835ddbbdbf59fc16.jpg") repeat !important;
+  background-size: auto;
+  background-color: black;
+}
+
+#outer {
+  background: transparent !important;
+}
+
+#main,
+.dashboard .secondary {
+  background: rgba(0,0,0,0.85);
+  border: none;
+}
+
+li.work {
+  background: #111;
+  border: 2px solid #f7a8c8;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 18px;
+  box-shadow: 0 0 8px rgba(247,168,200,0.35);
+}
+
+li.work + li.work {
+  margin-top: 20px;
+}
+
+#header .heading a {
+  font-size: 0;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "⚠️ :";
+  color: #f7c8d8;
+}
+
+#header {
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 0 !important;
+}
+
+#header .heading {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#header h1 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  margin: 0 !important;
+}
+
+#header h1 a {
+  background: none !important;
+  text-indent: 0 !important;
+  font-size: 0;
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+#header h1,
+#header h1 a {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+#header h1 a {
+  text-indent: 0 !important;
+  font-size: 0;
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+#header h1 a::after {
+  content: "🎀";
+  font-size: 32px;
+  line-height: 40px;
+  display: block;
+}
+
+#header h1 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  margin: 0 !important;
+}
+
+.required-tags span,
+.warnings span,
+.ratings span,
+.category span {
+  font-size: 0 !important;
+  color: transparent !important;
+}
+
+.required-tags img,
+.warnings img,
+.ratings img,
+.category img {
+  font-size: initial !important;
+}
+
+.blurb .tags dt,
+.blurb .tags dd {
+  display: inline;
+}
+
+.blurb .tags dt {
+  margin-right: 4px;
+  color: #ff9ecb;
+  font-weight: bold;
+}
+
+.blurb .tags dd.relationships::after,
+.blurb .tags dd.characters::after,
+.blurb .tags dd.freeforms::after {
+  content: "";
+  display: block;
+}
+
+#main {
+  font-size: 17px;
+}
+
+h1,
+h2,
+h3 {
+  font-size: 1.2em;
+}
+
+ul.tags {
+  display: flex;
+  flex-wrap: wrap;
+}
