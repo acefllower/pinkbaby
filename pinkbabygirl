@@ -484,6 +484,24 @@ li.blurb .status,
   outline: none !important;
 }
 
+#main fieldset#include-work-info-options {
+  display: block !important;
+  visibility: visible !important;
+  height: auto !important;
+  background: #6b2f4a !important;
+}
+
+#include-work-info-options dt, 
+#include-work-info-options label {
+  color: #ffffff !important;
+}
+
+#search input,
+#search input:focus {
+  background-color: #6b2f4a !important;
+  border: 1px solid #ffffff !important;
+  color: #ffffff !important;
+}
 #search input,
 #search input:focus {
   background-color: #6b2f4a !important;
