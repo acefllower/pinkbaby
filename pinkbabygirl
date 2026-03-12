@@ -451,39 +451,6 @@ ul.tags li.warnings a.tag,
   color: #f2c6d8 !important;
 }
 
-.status,
-p.status,
-li.blurb .status,
-#main .status,
-.history .status,
-.visit,
-.marked {
-  display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  border: none !important;
-}
-
-.blurb .status {
-  display: none !important;
-}
-
-#search input {
-  border: 1px solid #ffffff !important;
-  box-shadow: none !important;
-  outline: none !important;
-  background: transparent !important;
-  color: #ffffff !important;
-}
-
-#search input:focus {
-  border: 1px solid #ffffff !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
-
 #main fieldset#include-work-info-options {
   display: block !important;
   visibility: visible !important;
@@ -491,7 +458,7 @@ li.blurb .status,
   background: #6b2f4a !important;
 }
 
-#include-work-info-options dt, 
+#include-work-info-options dt,
 #include-work-info-options label {
   color: #ffffff !important;
 }
@@ -501,8 +468,4 @@ li.blurb .status,
   background-color: #6b2f4a !important;
   border: 1px solid #ffffff !important;
   color: #ffffff !important;
-}
-#search input,
-#search input:focus {
-  background-color: #6b2f4a !important;
 }
